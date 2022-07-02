@@ -16,7 +16,7 @@ Thanks for checking out this front-end coding challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/qr-code-component-solution-SsE-QvVn0M)
 - Live Site URL: [live site URL](https://end-dev-web.github.io/QR-code-component-Solution/)
 - watch video tutorial: [QR code component solution](https://www.youtube.com/watch?v=oXgMc4WZaWM)
 
@@ -48,7 +48,7 @@ To see how you can add code snippets, see below:
 ## Author
 
 - Youtube channel - [End Dev](https://www.youtube.com/channel/UCU8amZfd_ezoKqwcMZL1DSQ)
-- Frontend Mentor - [@end dev](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@End-Dev-web](https://www.frontendmentor.io/profile/End-Dev-web)
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
