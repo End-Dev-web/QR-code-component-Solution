@@ -17,7 +17,7 @@ Thanks for checking out this front-end coding challenge.
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://end-dev-web.github.io/QR-code-component-Solution/)
 - watch video tutorial: [QR code component solution](https://www.youtube.com/watch?v=oXgMc4WZaWM)
 
 ## My process
